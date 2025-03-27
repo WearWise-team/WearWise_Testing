@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UM001_SearchUserByName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>85b9d5f9-fd32-4cea-9c9c-7cc052baa106</testCaseGuid>
+</TestCaseEntity>

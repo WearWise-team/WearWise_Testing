@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DC009_UpdateDiscount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ca713c7-0270-40c6-8621-16b46066ad41</testCaseGuid>
+</TestCaseEntity>

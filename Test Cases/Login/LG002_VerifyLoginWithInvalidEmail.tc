@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG002_VerifyLoginWithInvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>889366b8-8b2c-48ac-8d74-3992b616d1e2</testCaseGuid>
+</TestCaseEntity>

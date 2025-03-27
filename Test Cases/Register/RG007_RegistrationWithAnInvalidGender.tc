@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG007_RegistrationWithAnInvalidGender</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a00447c-cb3e-4018-8ab4-12c440f08ca0</testCaseGuid>
+</TestCaseEntity>

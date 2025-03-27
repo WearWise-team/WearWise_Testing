@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UM007_FilterUserByGender</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>01d9f7db-1b3d-40f7-81a0-2611cb52788e</testCaseGuid>
+</TestCaseEntity>

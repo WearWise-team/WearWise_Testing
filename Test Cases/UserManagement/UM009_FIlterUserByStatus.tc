@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UM009_FIlterUserByStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3422e018-a21b-4fce-8272-a35adf35ea83</testCaseGuid>
+</TestCaseEntity>

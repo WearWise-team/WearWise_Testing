@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG006_RegistrationWithAnAlreadyEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>518ef4bd-a712-4b9f-b41e-557852de4a04</testCaseGuid>
+</TestCaseEntity>

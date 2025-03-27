@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG004_VerifyLoginWithEmptyFields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bf7fe920-5f2d-49e9-89a9-ef67f3754b40</testCaseGuid>
+</TestCaseEntity>

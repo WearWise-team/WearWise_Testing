@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DC006_SystemDoesNotAllowInvalidDC</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58e439ed-b948-4659-8959-f79a15e053f7</testCaseGuid>
+</TestCaseEntity>

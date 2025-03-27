@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UM011_BlockUserSuccesfully</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>207c12e9-7b8e-4286-a11c-46d98b1763d4</testCaseGuid>
+</TestCaseEntity>

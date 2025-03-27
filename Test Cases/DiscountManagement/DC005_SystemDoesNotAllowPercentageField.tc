@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DC005_SystemDoesNotAllowPercentageField</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61596ebc-d9d7-49e1-afc3-8e74895eeb11</testCaseGuid>
+</TestCaseEntity>

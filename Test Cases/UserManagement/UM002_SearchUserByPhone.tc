@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UM002_SearchUserByPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03f81d7e-3627-4977-841b-d16966de7fa1</testCaseGuid>
+</TestCaseEntity>

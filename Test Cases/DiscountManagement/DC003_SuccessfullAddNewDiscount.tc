@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DC003_SuccessfullAddNewDiscount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c2b51aa-4eb9-45f8-9a85-b499c2c8a6d9</testCaseGuid>
+</TestCaseEntity>

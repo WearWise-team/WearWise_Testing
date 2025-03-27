@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DC004_SystemDoesNotAllowEmptyCodeField</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be286fa5-a7c2-4ea9-b058-6245f46532f6</testCaseGuid>
+</TestCaseEntity>

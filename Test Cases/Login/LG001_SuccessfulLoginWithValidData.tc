@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG001_SuccessfulLoginWithValidData</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41554ec3-1652-4443-b5f1-735cfc5669cb</testCaseGuid>
+</TestCaseEntity>

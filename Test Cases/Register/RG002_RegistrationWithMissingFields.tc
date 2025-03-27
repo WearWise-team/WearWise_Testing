@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG002_RegistrationWithMissingFields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a70c857-2260-4ee7-b4d3-837175c5e388</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RG003_RegistrationWithAnInvalidEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f7c3e89-51fc-4ed4-92d1-04529ad47982</testCaseGuid>
+</TestCaseEntity>

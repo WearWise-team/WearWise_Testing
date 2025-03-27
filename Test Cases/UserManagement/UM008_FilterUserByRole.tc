@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>UM008_FilterUserByRole</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>78878465-48d3-4861-a412-27cf5a9b34ef</testCaseGuid>
+</TestCaseEntity>

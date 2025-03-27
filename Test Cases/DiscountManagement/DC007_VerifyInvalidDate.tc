@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DC007_VerifyInvalidDate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>836e9dab-1a7b-4b08-a50d-00199ebf0740</testCaseGuid>
+</TestCaseEntity>
